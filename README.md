@@ -21,7 +21,7 @@ I am always looking to learn new things.
 ## Social Links 
 
 <p>
-    <img a href="https://linkedin.com/mlgs45" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/mlgs45)
 <!--
 **mlgs45/mlgs45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
