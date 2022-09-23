@@ -20,7 +20,6 @@ I am always looking to learn new things.
 </p>
 
 ## Design 
-
 <p>
 	<img scr="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 	<img scr="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -28,8 +27,6 @@ I am always looking to learn new things.
 	<img scr="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 	<img scr="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 	<img scr="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
-	<img src="https://aleen42.github.io/badges/src/zeplin.svg" />
-	
 </p>
 
 ## Hobbies
