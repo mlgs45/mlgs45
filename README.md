@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Hello and welcome to my github ! I am CEO of VoxM and I am currently an student at [Wild Code School](https://www.wildcodeschool.com/fr-FR) to improve my ability to do developments.
+Hello and welcome to my github ! I am CEO of [VoxM](https://www.voxm.live/), a solution for media and brands to collect, analyze and exploit audience and community participation.  
+
+In parallel, I am currently an student at [Wild Code School](https://www.wildcodeschool.com/fr-FR) to improve my ability to do developments.
 I am always looking to learn new things.
 
 ## Languages
