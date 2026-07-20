@@ -55,12 +55,6 @@ I also build software independently, for clients and for myself.
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mlgs45&layout=compact&hide_border=true&bg_color=0B1220&title_color=FF5A36&text_color=93A1B5" height="165" />
 </p>
 
-## Coding activity
-
-<!--START_SECTION:waka-->
-_Coming online — connecting WakaTime._
-<!--END_SECTION:waka-->
-
 ## Elsewhere
 
 <p>
