@@ -14,7 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: mlgs45
+          GH_USERNAME: mlgs45
           COMMIT_MSG: "chore: met à jour l'activité récente"
           MAX_LINES: 5
