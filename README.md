@@ -1,68 +1,53 @@
-<h1> Hi, I'm Mathieu LANGLOIS 👋🏻</h1>
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mlgs45)
-![Twitter Follow](https://img.shields.io/twitter/follow/mlanglois45?style=social)
-![GitHub followers](https://img.shields.io/github/followers/mlgs45?style=social)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=140&section=header)
 
-## Introduction
+<h1 style="margin-top:-20px">Mathieu Langlois</h1>
 
-Hello and welcome to my github ! I am CEO of [VoxM](https://www.voxm.live/), a solution for media (likes Groupe TF1, Groupe M6/RTL, FranceTV, Radio France...) and brands to collect, analyze and exploit audience and community participation.  
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF5A36&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=CEO+%40+VoxM+%E2%80%94+live+audience+participation+tech;TV+%C2%B7+radio+%C2%B7+real-time+audience+engagement;Hono+%C2%B7+Prisma+%C2%B7+Redis+%C2%B7+React+%C2%B7+Cloudflare)](https://voxm.live)
 
-I am always looking to learn new things.
+</div>
 
-## Languages
+I build the systems that let TV and radio audiences vote, react, and show up inside a live broadcast — in real time, at scale. Based in Orléans, France.
 
-<p>
-	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
+## How I work
 
-## Design 
-<p>
-	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-	<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-	<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
-</p>
+- **AI-augmented** — Claude is part of my daily dev workflow, from architecture decisions to code and reviews.
+- **Always scouting** — I test new tools (AI, infra, front-end) before deciding what's worth adopting at VoxM.
+- **End-to-end** — architecture to production. I ship complete, working systems — not half-finished prototypes.
 
-## Hobbies
-<p>
-	<img src ="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-	<img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
-	<img src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-	<img src ="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white" />
-</p>
+## Now building
 
-## Social Links 
+**[VoxM](https://voxm.live)** — live polling & audience participation infrastructure used by TF1, M6/RTL, France TV and Radio France.
+
+- Real-time voting & participation widgets embedded in live broadcasts
+- API built on Hono + Prisma + Redis, handling burst traffic during live shows
+- React front-ends for both the audience widget and the production back-office
+
+## Stack
 
 <p>
-    <a href="https://www.linkedin.com/in/mlanglois45/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=node.js&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/Redis-0B1220?style=flat-square&logo=redis&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/Cloudflare-0B1220?style=flat-square&logo=cloudflare&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=FF5A36" />
+<img src="https://img.shields.io/badge/Claude-0B1220?style=flat-square&logo=anthropic&logoColor=FF5A36" />
 </p>
 
-## Dev Cards 
+## GitHub
 
 <p>
-<a href="https://app.daily.dev/mlgs45"><img src="https://api.daily.dev/devcards/4dd12b89417f4123bf1d4e695aa8d85b.png?r=jyj" width="400" alt="MatLGS's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=mlgs45&show_icons=true&hide_border=true&bg_color=0B1220&title_color=FF5A36&icon_color=FF5A36&text_color=93A1B5" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlgs45&layout=compact&hide_border=true&bg_color=0B1220&title_color=FF5A36&text_color=93A1B5" height="165" />
 </p>
 
-<!--
-**mlgs45/mlgs45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Elsewhere
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://voxm.live"><img src="https://img.shields.io/badge/VoxM-0B1220?style=flat-square&logo=googlechrome&logoColor=FF5A36" /></a>
+<a href="https://www.linkedin.com/in/mlanglois45/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=FF5A36" /></a>
+<a href="https://x.com/mlanglois45"><img src="https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=FF5A36" /></a>
+</p>
