@@ -61,11 +61,6 @@ I also build software independently, for clients and for myself.
 _Coming online — connecting WakaTime._
 <!--END_SECTION:waka-->
 
-## Recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## Elsewhere
 
 <p>
