@@ -68,9 +68,9 @@ I also build software independently, for clients and for myself.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/contrib-art-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/contrib-art-light.svg" />
+  <img alt="a year of building — activity landscape" src="https://raw.githubusercontent.com/mlgs45/mlgs45/output/contrib-art-dark.svg" width="820" />
 </picture>
 
 </div>
