@@ -2,6 +2,12 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=140&section=header)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <h1 style="margin-top:-20px">Mathieu Langlois</h1>
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF5A36&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=CEO+%40+VoxM+%E2%80%94+live+audience+participation+tech;TV+%C2%B7+radio+%C2%B7+real-time+audience+engagement;Hono+%C2%B7+Prisma+%C2%B7+Redis+%C2%B7+React+%C2%B7+Cloudflare)](https://voxm.live)
