@@ -1,16 +1,14 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=140&section=header)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/main/assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/main/assets/hero-light.svg" />
+  <img alt="live audience waveform" src="https://raw.githubusercontent.com/mlgs45/mlgs45/main/assets/hero-dark.svg" width="820" />
 </picture>
 
-<h1 style="margin-top:-20px">Mathieu Langlois</h1>
+<h1>Mathieu Langlois</h1>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF5A36&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=CEO+%40+VoxM+%E2%80%94+live+audience+participation+tech;TV+%C2%B7+radio+%C2%B7+real-time+audience+engagement;Hono+%C2%B7+Prisma+%C2%B7+Redis+%C2%B7+React+%C2%B7+Cloudflare)](https://voxm.live)
+<em>CEO @ <a href="https://voxm.live">VoxM</a> · independent builder</em>
 
 </div>
 
@@ -57,6 +55,17 @@ I also build software independently, for clients and for myself.
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mlgs45&layout=compact&hide_border=true&bg_color=0B1220&title_color=FF5A36&text_color=93A1B5" height="165" />
 </p>
 
+## Coding activity
+
+<!--START_SECTION:waka-->
+_Coming online — connecting WakaTime._
+<!--END_SECTION:waka-->
+
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Elsewhere
 
 <p>
@@ -64,3 +73,15 @@ I also build software independently, for clients and for myself.
 <a href="https://www.linkedin.com/in/mlanglois45/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" /></a>
 <a href="https://x.com/mlanglois45"><img src="https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=FF5A36" /></a>
 </p>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/mlgs45/mlgs45/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
