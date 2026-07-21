@@ -8,11 +8,11 @@
 
 <h1>Mathieu Langlois</h1>
 
-<em>CEO @ <a href="https://voxm.live">VoxM</a> · independent builder</em>
+<em>CEO @ <a href="https://voxm.live">VoxM</a> · AI training &amp; build for SMBs @ <a href="https://mlgs.fr">mlgs.fr</a></em>
 
 </div>
 
-I run VoxM, live audience participation infrastructure for TV and radio. In parallel, I build software independently — for clients and for myself. Based in Orléans, France.
+I run VoxM, live audience participation infrastructure for TV and radio. In parallel, I train teams and build AI tools for French SMBs at [mlgs.fr](https://mlgs.fr). Based in Orléans, France.
 
 ## How I work
 
@@ -28,12 +28,17 @@ I run VoxM, live audience participation infrastructure for TV and radio. In para
 - API built on Hono + Prisma + Redis, handling burst traffic during live shows
 - React front-ends for both the audience widget and the production back-office
 
-## Outside VoxM
+## mlgs — AI for French SMBs
 
-I also build software independently, for clients and for myself.
+My independent practice, packaged at **[mlgs.fr](https://mlgs.fr)**: I put AI to work inside small and mid-sized companies, and everything is measured the same way — hours saved per week.
 
-- **For clients** — CRMs, internal platforms and React/JS web apps for service businesses
-- **At home** — small tools I design and run myself on personal servers: meeting-notes apps, a home menu planner, whatever gets built when I want to try a technology on a real problem instead of a tutorial
+- **Diagnostic** — 4 hours on site to map the use cases actually worth doing
+- **Training & builds** — hands-on sessions on the company's real files; custom tools (internal assistants, document processing, automation) shipped and connected to existing systems
+- **Fractional AI lead** — one day a week inside the company, 3 clients max
+
+## At home
+
+Small tools I design and run myself on personal servers: meeting-notes apps, a home menu planner, whatever gets built when I want to try a technology on a real problem instead of a tutorial.
 
 ## Stack
 
@@ -58,8 +63,9 @@ I also build software independently, for clients and for myself.
 ## Elsewhere
 
 <p>
+<a href="https://mlgs.fr"><img src="https://img.shields.io/badge/mlgs.fr-0B1220?style=flat-square&logo=googlechrome&logoColor=FF5A36" /></a>
 <a href="https://voxm.live"><img src="https://img.shields.io/badge/VoxM-0B1220?style=flat-square&logo=googlechrome&logoColor=FF5A36" /></a>
-<a href="https://www.linkedin.com/in/mlanglois45/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" /></a>
+<a href="https://www.linkedin.com/in/mlgs45/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&labelColor=0B1220&color=0B1220" /></a>
 <a href="https://x.com/mlanglois45"><img src="https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=FF5A36" /></a>
 </p>
 
